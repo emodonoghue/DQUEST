@@ -20,16 +20,10 @@
 <loc>http://localhost:4000/DQUEST/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/DQUEST/template_completed</loc>
-</url>
-<url>
 <loc>http://localhost:4000/DQUEST/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/DQUEST/template_ongoing</loc>
-</url>
-<url>
-<loc>http://localhost:4000/DQUEST/participate</loc>
 </url>
 <url>
 <loc>http://localhost:4000/DQUEST/projects</loc>

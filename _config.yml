@@ -9,7 +9,6 @@ profile_picture: "/assets/images/profile.jpg"
 header_pages:
   - projects.md
   - publications.md
-  - participate.md
   - contact.md
 
 # Features

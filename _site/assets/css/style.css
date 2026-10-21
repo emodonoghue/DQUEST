@@ -698,6 +698,15 @@ html.theme--dark .project-card--completed {
   margin-right: 0.4rem;
 }
 
+.post__contact {
+  font-size: 0.88rem;
+  color: var(--text-light);
+  margin-bottom: 0.5rem;
+}
+.post__contact i {
+  margin-right: 0.4rem;
+}
+
 .post__status {
   display: inline-block;
   font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -800,7 +809,7 @@ html.theme--dark .project-card--completed {
   margin-right: 0.25rem;
 }
 .collab-card__email {
-  font-size: 0.68rem;
+  font-size: 0.85rem;
   color: var(--link);
   text-decoration: none;
   margin-top: 0.35rem;
@@ -813,7 +822,7 @@ html.theme--dark .project-card--completed {
   color: var(--link-hover);
 }
 .collab-card__website {
-  font-size: 0.68rem;
+  font-size: 0.85rem;
   color: var(--link);
   text-decoration: none;
 }

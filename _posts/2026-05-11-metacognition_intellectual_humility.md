@@ -4,7 +4,7 @@ title: "Sense of Agency, Exploration and Learning: The Distinct Roles of Metacog
 date: 2026-05-11
 summary: "Can we predict exploration strategies from the situation and individual differences?"
 permalink: metacognition_intellectual_humility
-status: "Under Development"
+status: "Ongoing"
 people:
   - "Julien Rosenberger"
   - "Hélène Sauzéon"

@@ -1,21 +1,5 @@
 # DQUEST
 
-To run locally:
-
->bundle install
->
->bundle exec jekyll serve
-
-The site is then served at http://localhost:4000/DQUEST/.
-
-
-
-## Acknowledgements
-
-The design of this blog is inspired by [Anatole](https://github.com/lxndrblz/anatole) (Hugo theme by Alexander Bilz), developed with [Claude Code](https://claude.com/fr/product/claude-code) (Anthropic) and built with [Jekyll](https://jekyllrb.com).
-
-
-
 # Few tips to add a project on the page
 
 Each file in `_posts/` is a **project** (an experiment). Projects are listed as cards on the Projects page (`projects.md`) and each one has its own page rendered with `_layouts/post.html`.
@@ -29,6 +13,7 @@ Each file in `_posts/` is a **project** (an experiment). Projects are listed as 
   - [3. Body sections](#3-body-sections)
   - [4. Images](#4-images)
   - [5. Markdown Cheatsheet](#5-markdown-cheatsheet)
+- [Acknowledgments](#acknowledgements)
 - [TODO](#todo)
 
 
@@ -87,7 +72,7 @@ title: "Your Project Title" (to change)
 date: 2026-05-11 (to change)
 summary: "One or two sentences describing the project (shown on the project card)." (to change)
 permalink: your_project_slug (will be in the URL) (to change)
-status: "Ongoing" (or "Completed") (to change)
+status: "Ongoing" (or "Completed" or "Under Development") (to change)
 people:
   - "First Collaborator" (to change)
   - "Second Collaborator" (to change)
@@ -159,6 +144,12 @@ The `thumbnail` field does not need this: the Projects page adds the prefix itse
 See https://www.markdown-cheatsheet.com/
 
 ---
+
+
+## Acknowledgements
+
+The design of this blog is inspired by [Anatole](https://github.com/lxndrblz/anatole) (Hugo theme by Alexander Bilz), developed with [Claude Code](https://claude.com/fr/product/claude-code) (Anthropic) and built with [Jekyll](https://jekyllrb.com).
+
 
 ## TODO
 
