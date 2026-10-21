@@ -6,8 +6,6 @@ permalink: /
 
 ## What is DQUEST?
 
-**DQUEST** stands for **D**evelopment, **Q**uestioning, **U**nderstanding, **E**xploration, **S**elf-awareness and **T**hinking.
-
 **Curiosity**, or the desire to acquire information about the world, is a solution to adapt to the endless world we live in. Initial research suggests that learning could indeed be enhanced by curiosity, and that curiosity could, in its turn, be enhanced by a metacognitive awareness of one’s own learning progress. We call here **metacognition** the control, monitoring and evaluation of one’s own thought process.
 
 Yet, the reciprocal influences between curiosity-based learning and metacognition remain poorly understood, even more so during late childhood and adolescence when both abilities continue to develop. To address this gap, *our interdisciplinary approach explores the bidirectional connections between curiosity-based learning and metacognition during this crucial developmental period.*
@@ -20,4 +18,4 @@ Thanks to the diversity of skills and approaches of the collaborators of this DQ
 The co-leaders of that project are Yana Fandakova from Trier University (Germany), Matthias Gruber from Cardiff University (UK), and Pierre-Yves Oudeyer and Hélène Sauzéon from INRIA Bordeaux (France). They are assisted by several [collaborators]({{ '/contact' | relative_url }}) introduced on the dedicate webpage.
 
 ## This website
-On this website, you may read brief [presentations of the experiments]({{ '/projects' | relative_url }}) of the DQUEST project, either under development, ongoing or completed. We may be looking for participants. If you want to answer a [call for participants]({{ '/participate' | relative_url }}), do not hesitate to contact us and ask for further information.
+On this website, you may read brief [presentations of the experiments]({{ '/projects' | relative_url }}) of the DQUEST project, either under development, ongoing or completed. If you are interested in what we do or simply want to talk, do not hesitate to contact us!

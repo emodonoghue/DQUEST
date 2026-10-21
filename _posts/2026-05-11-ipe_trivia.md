@@ -11,29 +11,35 @@ people:
 location: "Cardiff (UK)"
 thumbnail: "/images/pexels-cottonbro-9290021.jpg"
 participate_type: "On-site" # or "on-site"
+contact:
+  name: "Ellen O'Donoghue"
+  email: "ODonoghueE1@cardiff.ac.uk"
 ---
 
 ## Purpose
+research questions and why we should care about it
 
-Previous work shows a relation between curiosity before X, interestingness in X and memory retention of X. The purpose of this study is to investigate that relation and track whether this relation changes across development (and if so, why).
+...
 
+## Method
+some peek into what's happening inside 
 
-## What Happens
 ... 
 
 
-## Who Can Participate
-Age ....
-
-
-## Duration
+## Current stage of the project 
+(if relevant)
 ...
 
 
-## Compensation
-...
+## Key Findings
+(if relevant)
 
-## How To Participate
-On-site experiment
-You can send an email at: …
+## Future Work
+(if relevant)
 
+
+## Publications
+(if relevant)
+
+## References

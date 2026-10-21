@@ -12,23 +12,35 @@ people:
 thumbnail: "/images/pexels-cottonbro-9290021.jpg"
 participate_type: "On-site"
 location: "Cardiff (UK)"
+contact:
+  name: "Megan Wadon"
+  email: "WadonM@cardiff.ac.uk"
 ---
 
 ## Purpose
-The purpose of this study is to understand how asking questions influences the memory retention of the answers. 
+research questions and why we should care about it
 
-## What Happens
-During a first phase, the participant generates a set of questions on a series of short texts. During a second phase, in a fMRI scanner, the participant reads a series of questions (either self-generated from the previous phase or not). For each question, the participant rates his/her curiosity for the answer, receives the answer and then rate the interestingness of the answer. Finally, in a third phase, the participant’s memory of those answers is tested.
+...
 
-## Who Can Participate
-xx
+## Method
+some peek into what's happening inside 
 
-## Duration
-xx
+... 
 
-## Compensation
-xx
 
-## How To Participate
-On-site experiment
-You can send an email at: …
+## Current stage of the project 
+(if relevant)
+...
+
+
+## Key Findings
+(if relevant)
+
+## Future Work
+(if relevant)
+
+
+## Publications
+(if relevant)
+
+## References

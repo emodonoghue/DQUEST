@@ -6,39 +6,40 @@ summary: summary
 permalink: longitudinal-development
 status: "Ongoing"
 people:
-  - "Billur Yanran"
+  - "Billur Yaran"
   - "Yana Fandakova"
 thumbnail: "/images/pexels-cottonbro-9290033.jpg"
 participate_type: "On-site"
 location: "Trier (Germany)"
+contact:
+  name: "Billur Yaran"
+  email: "yaran@uni-trier.de"
 ---
 
 ## Purpose
+research questions and why we should care about it
+
 ...
 
-## What Happens
-In this project, participants complete two sessions separated of one week. During the first, the participant follows:
-…
-During the second, the participant follows:
-…
+## Method
+some peek into what's happening inside 
 
--	KidsAsk paradigm
--	Monster Task
--	Trivia paradigm
--	VR exploration task
--	Questionnaires
+... 
 
-In the week interval between the two sessions, the participant completes daily questionnaire about …
 
-## Who Can Participate
-Children and adolescents between 10 and 14 years old. (indicative age)
+## Current stage of the project 
+(if relevant)
+...
 
-## Duration
-The first session lasts X, and the second X. Between the two, the child is expected to fill 
 
-## Compensation
-6€ if …
+## Key Findings
+(if relevant)
 
-## How To Participate
-On-site experiment
-You can send an email at: …
+## Future Work
+(if relevant)
+
+
+## Publications
+(if relevant)
+
+## References

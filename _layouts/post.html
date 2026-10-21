@@ -17,6 +17,12 @@ layout: default
       {{ page.location }}
     </p>
     {% endif %}
+    {% if page.contact %}
+    <p class="post__contact">
+      <i class="fas fa-envelope" aria-hidden="true"></i>
+      Contact: {{ page.contact.name }}{% if page.contact.email %} &middot; <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>{% endif %}
+    </p>
+    {% endif %}
     {% if page.status %}
     <span class="post__status post__status--{{ page.status | downcase | replace: ' ', '-' | replace: '-', '' }}">{{ page.status }}</span>
     {% endif %}

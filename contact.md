@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-<p>Authors of this webpage are collaborators of the DQUEST project, and can be contacted through information provided at the end of each subproject page.</p>
+<p>Authors of this webpage are collaborators of the DQUEST project, and can be contacted through information provided at the top of each subproject page.</p>
 
 <p>For general inquiries regarding the DQUEST project, please send a group email to the four co-leaders of this project listed below. Otherwise, you can also contact the team of your interest.</p>
 
