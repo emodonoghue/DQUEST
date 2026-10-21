@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en" class="html theme--light">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Contact | DevCur</title>
+  <meta name="description" content="A developmental curiosity research project">
+  <meta name="author" content="INRIA Flowers Team">
+
+  <!-- Open Graph -->
+  <meta property="og:title"       content="Contact">
+  <meta property="og:description" content="A developmental curiosity research project">
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="http://localhost:4000/DevCur/contact">
+  
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Contact">
+  <meta name="twitter:description" content="A developmental curiosity research project">
+  
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- FontAwesome 6 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/DevCur/assets/css/style.css">
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/rss+xml" title="DevCur" href="/DevCur/feed.xml">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/DevCur/favicon.ico">
+</head>
+
+  <body class="body">
+    <div class="wrapper">
+
+      <aside class="wrapper__sidebar" id="sidebar">
+        <div class="sidebar">
+  <div class="sidebar__content animated fadeInDown">
+
+    <div class="sidebar__introduction">
+      
+      <div class="sidebar__introduction-title">
+        <a href="/DevCur/">DevCur</a>
+      </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>A developmental curiosity research project</p>
+      </div>
+    </div>
+
+    <!-- Nav links repeated here for mobile (top bar hides them on small screens) -->
+    <nav class="sidebar__mobile-nav" aria-label="Mobile navigation">
+      <ul class="sidebar__nav-list">
+        <li class="sidebar__nav-item">
+          <a href="/DevCur/" >
+            <i class="fas fa-info-circle" aria-hidden="true"></i> About
+          </a>
+        </li>
+        
+          
+          
+          <li class="sidebar__nav-item">
+            <a href="/DevCur/projects" >
+              <i class="fas fa-flask" aria-hidden="true"></i>
+                
+              Projects
+            </a>
+          </li>
+          
+        
+          
+          
+          <li class="sidebar__nav-item">
+            <a href="/DevCur/publications" >
+              <i class="fas fa-book-open" aria-hidden="true"></i>
+                
+              Publications
+            </a>
+          </li>
+          
+        
+          
+          
+          <li class="sidebar__nav-item">
+            <a href="/DevCur/participate" >
+              <i class="fas fa-hands-helping" aria-hidden="true"></i>
+                
+              Participate
+            </a>
+          </li>
+          
+        
+          
+          
+          <li class="sidebar__nav-item">
+            <a href="/DevCur/contact" class="active">
+              <i class="fas fa-file-alt" aria-hidden="true"></i>
+              
+              Contact
+            </a>
+          </li>
+          
+        
+      </ul>
+    </nav>
+
+    <div class="sidebar__photo">
+      <img
+        src="/DevCur/images/pexels-cottonbro-9290021.jpg"
+        alt="A group of kids scouting"
+        title="Photo credit: Cottonbro studio on Pexels: https://www.pexels.com/photo/a-group-of-kids-scouting-9290021"
+      />
+    </div>
+
+
+  </div>
+</div>
+
+      </aside>
+
+      <main class="wrapper__main">
+        <header class="header">
+          <nav class="navbar" aria-label="Main navigation">
+  <!-- Mobile: hamburger to reveal sidebar -->
+  <button class="navbar__toggle" aria-label="Toggle sidebar" onclick="toggleSidebar()">
+    <i class="fas fa-bars" aria-hidden="true"></i>
+  </button>
+
+  <!-- Nav links (always visible) -->
+  <ul class="navbar__links">
+    <li>
+      <a href="/DevCur/" >
+        About
+      </a>
+    </li>
+    
+      
+      
+      <li>
+        <a href="/DevCur/projects" >
+          Projects
+        </a>
+      </li>
+      
+    
+      
+      
+      <li>
+        <a href="/DevCur/publications" >
+          Publications
+        </a>
+      </li>
+      
+    
+      
+      
+      <li>
+        <a href="/DevCur/participate" >
+          Participate
+        </a>
+      </li>
+      
+    
+      
+      
+      <li>
+        <a href="/DevCur/contact" class="active">
+          Contact
+        </a>
+      </li>
+      
+    
+  </ul>
+</nav>
+
+<script>
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  sidebar.classList.toggle('wrapper__sidebar--open');
+  overlay.classList.toggle('active');
+}
+</script>
+<div id="sidebar-overlay" class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+        </header>
+        <div class="wrapper__main-content">
+          <div class="post animated fadeInDown">
+  <div class="post__content">
+    <h1 class="post__title">Contact</h1>
+  </div>
+  <div class="post__body">
+    <p>Authors of this webpage are collaborators of the DevCur project, and can be contacted through information provided at the end of each subproject page.</p>
+
+<p>For general inquiries regarding the DevCur project, please send a group email to the four co-leaders of this project listed below. Otherwise, you can also contact the team of your interest.</p>
+
+<style>
+.collab-filters {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.75rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.filter-btn {
+  padding: 0.35rem 1.1rem;
+  border: 2px solid #666;
+  border-radius: 2rem;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #666;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+.filter-btn.active {
+  background: #444;
+  border-color: #444;
+  color: #fff;
+}
+.collab-section {
+  margin-bottom: 2.5rem;
+}
+.collab-section__title {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #555;
+  margin: 0 0 1.1rem 0;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #ddd;
+}
+</style>
+
+<div class="collab-filters">
+  <button class="filter-btn" id="btn-coleader">Co-leader</button>
+  <button class="filter-btn" id="btn-location">Location</button>
+</div>
+
+<div id="collab-container"></div>
+
+<script>
+(function () {
+  var BASE_URL = "/DevCur/";
+  var PEOPLE = [
+    
+    {
+      name:     "Billur Yanran",
+      initials: "BY",
+      role:     "PhD Student",
+      subrole:  "",
+      photo:    "images/collaborators/billur_yanran.png",
+      institution: "Trier University - Learning Brain Lab",
+      city:     "Trier",
+      country:  "Germany",
+      email:    "yaran@uni-trier.de",
+      website:  "https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-i/faecher-und-institute/psychologie/professuren/kognitive-neuropsychologie-und-entwicklung/standard-titel-3",
+      coleader: false
+    },
+    
+    {
+      name:     "Ellen O'Donoghue",
+      initials: "EO",
+      role:     "Postdoctoral Researcher",
+      subrole:  "",
+      photo:    "images/collaborators/ellen_o-donoghue.avif",
+      institution: "Cardiff University - Brain Research Imaging Centre",
+      city:     "Cardiff",
+      country:  "United Kingdom",
+      email:    "ODonoghueE1@cardiff.ac.uk",
+      website:  "https://profiles.cardiff.ac.uk/staff/odonoghuee1",
+      coleader: false
+    },
+    
+    {
+      name:     "Frederik Rickert",
+      initials: "YF",
+      role:     "Master Student",
+      subrole:  "",
+      photo:    "images/collaborators/frederik_rickert.jpeg",
+      institution: "Trier University - Learning Brain Lab",
+      city:     "Trier",
+      country:  "Germany",
+      email:    "s1frrick@uni-trier.de",
+      website:  "https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-i/faecher-und-institute/psychologie/professuren/kognitive-neuropsychologie-und-entwicklung/team",
+      coleader: false
+    },
+    
+    {
+      name:     "Hélène Sauzéon",
+      initials: "HS",
+      role:     "Professor",
+      subrole:  "Co-leader",
+      photo:    "images/collaborators/helene_sauzeon.jpg",
+      institution: "INRIA Bordeaux",
+      city:     "Bordeaux",
+      country:  "France",
+      email:    "helene.sauzeon@inria.fr",
+      website:  "https://sites.google.com/view/helenesauzeon/",
+      coleader: true
+    },
+    
+    {
+      name:     "Julien Rosenberger",
+      initials: "JR",
+      role:     "PhD Student",
+      subrole:  "",
+      photo:    "images/collaborators/julien_rosenberger.jpeg",
+      institution: "INRIA Bordeaux",
+      city:     "Bordeaux",
+      country:  "France",
+      email:    "julien.rosenberger@inria.fr",
+      website:  "",
+      coleader: false
+    },
+    
+    {
+      name:     "Matthias Gruber",
+      initials: "MG",
+      role:     "Research Director",
+      subrole:  "Co-leader",
+      photo:    "images/collaborators/matthias_gruber.avif",
+      institution: "Cardiff University - Brain Research Imaging Centre",
+      city:     "Cardiff",
+      country:  "United Kingdom",
+      email:    "GruberM@cardiff.ac.uk",
+      website:  "https://profiles.cardiff.ac.uk/staff/gruberm",
+      coleader: true
+    },
+    
+    {
+      name:     "Megan Wadon",
+      initials: "MW",
+      role:     "Research Associate",
+      subrole:  "",
+      photo:    "images/collaborators/megan_wadon.avif",
+      institution: "Cardiff University - Brain Research Imaging Centre",
+      city:     "Cardiff",
+      country:  "United Kingdom",
+      email:    "WadonM@cardiff.ac.uk",
+      website:  "https://profiles.cardiff.ac.uk/research-staff/wadonm",
+      coleader: false
+    },
+    
+    {
+      name:     "Olivier Clerc",
+      initials: "OC",
+      role:     "Postdoctoral Researcher",
+      subrole:  "",
+      photo:    "images/collaborators/olivier_clerc.png",
+      institution: "INRIA Bordeaux",
+      city:     "Bordeaux",
+      country:  "France",
+      email:    "olivier.clerc@inria.fr",
+      website:  "https://olivierlclerc.github.io/",
+      coleader: false
+    },
+    
+    {
+      name:     "Pierre-Yves Oudeyer",
+      initials: "PO",
+      role:     "Research Director",
+      subrole:  "Co-leader",
+      photo:    "images/collaborators/pierre-yves_oudeyer.jpeg",
+      institution: "INRIA Bordeaux",
+      city:     "Bordeaux",
+      country:  "France",
+      email:    "pierre-yves.oudeyer@inria.fr",
+      website:  "https://www.pyoudeyer.com/",
+      coleader: true
+    },
+    
+    {
+      name:     "Scarlett Rodia",
+      initials: "SR",
+      role:     "Research Assistant",
+      subrole:  "",
+      photo:    "",
+      institution: "Cardiff University - Brain Research Imaging Centre",
+      city:     "Cardiff",
+      country:  "United Kingdom",
+      email:    "RodiaS@cardiff.ac.uk",
+      website:  "",
+      coleader: false
+    },
+    
+    {
+      name:     "Yana Fandakova",
+      initials: "YF",
+      role:     "Research Director",
+      subrole:  "Co-leader",
+      photo:    "images/collaborators/yana_fandakova.jpeg",
+      institution: "Trier University - Learning Brain Lab",
+      city:     "Trier",
+      country:  "Germany",
+      email:    "fandakova@uni-trier.de",
+      website:  "https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-i/faecher-und-institute/psychologie/professuren/kognitive-neuropsychologie-und-entwicklung/team/prof-dr-yana-fandakova",
+      coleader: true
+    }
+    
+  ];
+
+  var activeFilter = 'coleader';
+  var btnColeader  = document.getElementById('btn-coleader');
+  var btnLocation  = document.getElementById('btn-location');
+  var container    = document.getElementById('collab-container');
+
+  function esc(s) {
+    return String(s || '')
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function shuffle(arr) {
+    for (var i = arr.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = arr[i]; arr[i] = arr[j]; arr[j] = t;
+    }
+    return arr;
+  }
+
+  function cardHtml(p) {
+    var avatar = (p.photo && p.photo !== '')
+      ? '<img src="' + BASE_URL + p.photo + '" alt="' + esc(p.name) + '" />'
+      : '<span>' + esc(p.initials) + '</span>';
+    var role = esc(p.role) + (p.subrole ? ' &middot; ' + esc(p.subrole) : '');
+    var email = (p.email && p.email !== '')
+      ? '<a class="collab-card__email" href="mailto:' + esc(p.email) + '">'
+        + '<i class="fas fa-envelope" aria-hidden="true"></i> ' + esc(p.email) + '</a>'
+      : '';
+    var site = (p.website && p.website !== '')
+      ? '<a class="collab-card__website" href="' + esc(p.website) + '" target="_blank" rel="noopener">'
+        + '<i class="fas fa-external-link-alt" aria-hidden="true"></i> Website</a>'
+      : '';
+    return '<div class="collab-card">'
+      + '<div class="collab-card__avatar">' + avatar + '</div>'
+      + '<div class="collab-card__info">'
+      + '<h3 class="collab-card__name">' + esc(p.name) + '</h3>'
+      + '<p class="collab-card__role">' + role + '</p>'
+      + '<p class="collab-card__location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> '
+        + esc(p.city) + ' &middot; ' + esc(p.country) + '</p>'
+      + email + site
+      + '</div></div>';
+  }
+
+  function sectionHtml(title, people) {
+    var header = title ? '<h2 class="collab-section__title">' + esc(title) + '</h2>' : '';
+    return '<div class="collab-section">' + header
+      + '<div class="collab-grid">'
+      + shuffle(people.slice()).map(cardHtml).join('')
+      + '</div></div>';
+  }
+
+  function render() {
+    var html = '';
+    if (activeFilter === 'coleader') {
+      var leaders = PEOPLE.filter(function (p) { return p.coleader; });
+      var others  = PEOPLE.filter(function (p) { return !p.coleader; });
+      html += sectionHtml('Co-leaders', leaders);
+      html += sectionHtml('Team and Collaborators', others);
+    } else if (activeFilter === 'location') {
+      var groups = {};
+      PEOPLE.forEach(function (p) {
+        var key = p.institution || (p.city + ' · ' + p.country);
+        (groups[key] = groups[key] || []).push(p);
+      });
+      shuffle(Object.keys(groups)).forEach(function (inst) {
+        html += sectionHtml(inst, groups[inst]);
+      });
+    } else {
+      html += sectionHtml(null, PEOPLE);
+    }
+    container.innerHTML = html;
+  }
+
+  btnColeader.addEventListener('click', function () {
+    activeFilter = (activeFilter === 'coleader') ? null : 'coleader';
+    btnColeader.classList.toggle('active', activeFilter === 'coleader');
+    btnLocation.classList.remove('active');
+    render();
+  });
+
+  btnLocation.addEventListener('click', function () {
+    activeFilter = (activeFilter === 'location') ? null : 'location';
+    btnLocation.classList.toggle('active', activeFilter === 'location');
+    btnColeader.classList.remove('active');
+    render();
+  });
+
+  btnColeader.classList.add('active');
+  render();
+}());
+</script>
+
+
+  </div>
+</div>
+
+        </div>
+        <footer class="footer">
+  <div class="footer__content">
+    <p>
+      &copy; 2026 DevCur.
+      Built with <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>.
+    </p>
+  </div>
+</footer>
+
+      </main>
+
+    </div>
+
+    
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      };
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+  </body>
+</html>
