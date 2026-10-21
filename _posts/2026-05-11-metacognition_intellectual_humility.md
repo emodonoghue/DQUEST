@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Influences of Metacognition and Intellectual Humility on Exploration Strategies"
+title: "Sense of Agency, Exploration and Learning: The Distinct Roles of Metacognitive Skills and Intellectual Humility in Self-Regulated Learning"
 date: 2026-05-11
 summary: summary....
 permalink: metacognition_intellectual_humility
@@ -16,7 +16,15 @@ participate_type: "On-site" # or "on-site"
 
 ## Purpose
 
-The purpose of this study is to…
+**Research Question 1**: How does the agentic process interact with the exploration process?
+
+**Research Question 2**: How do metacognitive skills influence the interaction between agentic processes and the exploration process?
+
+**Research Question 3**: Are metacognitive skills and intellectual humility covering a same construct or do they relate to distinct processes during exploration?
+
+**Research Question 4**: How is age entangled in that whole process?
+
+**Research Question 5**: Can we estimate a behavioral measure of the intellectual humility trait?
 
 ## What Happens
 
