@@ -41,6 +41,11 @@ Inspired by the *Grid Exploration Task* of Wu et al (2018), we developed a new t
 ![Alt text](/images/posts/2026-05-11-metacognition_intellectual_humility/confirmation.png)
 *Our new free exploration task.*
 
+A between-participants customization condition (absent vs present) permits to manipulate the sense of agency of participants. Participants in the customization condition will receive the opportunity before exploring to choose and decorate the objects they will observe in the exploration task. In this condition, participants have a higher range of options towards the task and may feel a higher valuation towards their own creation than the default version (Norton et al 2012). We expect consequently this customization condition to enhance their sense of agency.
+
+![Alt text](/images/posts/2026-05-11-metacognition_intellectual_humility/custom_giraffe.png)
+*In the customization condition.*
+
 Around this task, intrinsic motivation (with SIMS; Guay et al 2000), epistemic emotions (with EES; Pekrun et al 2017) and sense of agency (with SoAS, Tapal et al 2018) are measured. In the last phase of the experiment, intellectual traits are measured: metacognitive skills (with MAI or Jr. MAI; Sperling et al 2002), intellectual humility with the scale under development by Ronfard et al., and hypothetical behavioral markers of intellectual humility through overclaiming and self-serving bias in memory. 
 
 ## Current stage of the project
