@@ -27,7 +27,7 @@ We recruited 80 children between ages 10 and 14, each of whom took part in a thr
 Analyzing (stay tuned!)
 
 ## Publications
-This project is preregistered via [PCI Registered Reports](https://rr.peercommunityin.org/PCIRegisteredReports/user/recommendations?articleId=1035&_signature=2c4ac67ef2477f3c47bc311465067d630efecb75). Stay tuned for our Stage 2 report in 2027!
+This project is preregistered via [PCI Registered Reports](https://rr.peercommunityin.org/PCIRegisteredReports/user/recommendations?articleId=1035&_signature=2c4ac67ef2477f3c47bc311465067d630efecb75). Stay tuned for our Stage 2 report!
 
 ## References
 1. Fandakova, Y., & Gruber, M. J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005.
